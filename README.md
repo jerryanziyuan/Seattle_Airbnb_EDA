@@ -28,7 +28,7 @@ There is one jupyter notebook and a link to my medium blog posting
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available 
+The main findings of the code can be found at the post available on Medium: https://medium.com/swlh/what-features-contribute-to-the-listing-price-on-airbnb-21af2703b269
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 https://www.kaggle.com/airbnb/seattle
