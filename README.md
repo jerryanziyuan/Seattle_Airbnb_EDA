@@ -16,11 +16,10 @@ The code should runs on Python versions 3 and above.
 
 For this project, I was interestested in using Seattle Airbnb data from 2017 to better understand:
 
-1.What are the top 5 neigborhood in terms of average listing price?
-2. .What are the bottom 5 neigborhood in terms of average listing price?
-3. Which review scores has the highest correlation with listed price?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-
+1.What neighborhoods share similar average prices? Where do you look for an Airbnb given a specific budget?
+2.What are the top 10 neighborhood groups in terms of average listing price?
+3.Which review score has the highest correlation with the listing price?
+4.What are the predictors for the listed price, and how do we price a house on Airbnb?
 
 ## File Descriptions <a name="files"></a>
 
